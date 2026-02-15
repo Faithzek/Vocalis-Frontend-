@@ -1,0 +1,7 @@
+{
+  "name": "Vocalis",
+  "description": "An assistive speech interface designed for users with stutters, featuring rule-based cleaning, smart pause handling, and personalization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
